@@ -1,24 +1,25 @@
 # New Schools Today
 
-New Schools Today is an open-source project to modernize online school resources envisioned by students. It is going to be an easy to use template that will allow any school to get a modern website.
+New Schools Today is an open-source project envisioned by students, aiming to modernize online school resources. We plan to create an easy-to-use template for students from any school to create useful apps for their school community. 
 
-
-### Technology used
+### Technology used:
 
 - React
+- Flutter
 - JSON Data
 
-
-
 ## How to contribute
+- 
 
-### Who we are looking for
+### Who are we looking for?
 - UX Designers
 - Graphic Designers
+- Data Scientists
+- Technical Mentors
+- Interested High school students
 
-### How to join
-- Join the team
-  - Join our slack
-  - Come to Hack For LA Santa Monica on Monday Nights
+### How do I join?
+- Attend Hack for LA virtual onboarding event
+- [Join our slack](https://app.slack.com/client/T04502KQX/CQZ5R91C5)
 
-We are currently not taking remote contributors.
+Note: Hack for LA's Westside Hack Nights are currently suspended due to the COVID-19 epidemic. However, remote contributions are still welcome! 
